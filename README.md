@@ -1,5 +1,17 @@
 # hyprland-void
 
+**NOTICE**: due to getting cancelled from void-linux entirely, I no
+longer have any motivation to maintain this port.
+
+Despite using this distribution for years, it is unfortunate to admit
+this thing is not worth my time anymore.
+
+The repository will be available until March of 2023.
+
+Consider cloning it and maintaining the package yourself.
+
+---
+
 The repository contains port of [Hyprland](https://hyprland.org/)
 (wayland compositor based on wlroots) for
 [Void Linux](https://voidlinux.org).

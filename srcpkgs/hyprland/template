@@ -11,7 +11,7 @@ makedepends="wayland-devel libdrm-devel libxkbcommon-devel pixman-devel
  xcb-util-keysyms-devel $(vopt_if xwayland xorg-server-xwayland)"
 depends="$(vopt_if xwayland xorg-server-xwayland)"
 short_desc="Dynamic tiling Wayland compositor based on wlroots"
-maintainer="Krul Ceter <kruceter@proton.me>"
+maintainer="Orphaned <orphan@localhost>"
 license="BSD-3-Clause"
 homepage="https://hyprland.org"
 distfiles="https://github.com/hyprwm/Hyprland/releases/download/v${version}/source-v${version}.tar.gz"
